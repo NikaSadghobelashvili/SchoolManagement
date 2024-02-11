@@ -1,0 +1,15 @@
+C:\Users\gio\source\repos\SchoolManagement\Interfaces\bin\Debug\net6.0\Interfaces.deps.json
+C:\Users\gio\source\repos\SchoolManagement\Interfaces\bin\Debug\net6.0\Interfaces.dll
+C:\Users\gio\source\repos\SchoolManagement\Interfaces\bin\Debug\net6.0\Interfaces.pdb
+C:\Users\gio\source\repos\SchoolManagement\Interfaces\obj\Debug\net6.0\Interfaces.csproj.AssemblyReference.cache
+C:\Users\gio\source\repos\SchoolManagement\Interfaces\obj\Debug\net6.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gio\source\repos\SchoolManagement\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\gio\source\repos\SchoolManagement\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfo.cs
+C:\Users\gio\source\repos\SchoolManagement\Interfaces\obj\Debug\net6.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\gio\source\repos\SchoolManagement\Interfaces\obj\Debug\net6.0\Interfaces.dll
+C:\Users\gio\source\repos\SchoolManagement\Interfaces\obj\Debug\net6.0\refint\Interfaces.dll
+C:\Users\gio\source\repos\SchoolManagement\Interfaces\obj\Debug\net6.0\Interfaces.pdb
+C:\Users\gio\source\repos\SchoolManagement\Interfaces\obj\Debug\net6.0\ref\Interfaces.dll
+C:\Users\gio\source\repos\SchoolManagement\Interfaces\bin\Debug\net6.0\DTO.dll
+C:\Users\gio\source\repos\SchoolManagement\Interfaces\bin\Debug\net6.0\DTO.pdb
+C:\Users\gio\source\repos\SchoolManagement\Interfaces\obj\Debug\net6.0\Interfaces.csproj.CopyComplete
